@@ -1,0 +1,14 @@
+img {
+  width: 400px;
+  height: 350px;
+  padding: 0px 15px 0px 15px;
+}
+.speech-bubble {
+  background: url("https://d30y9cdsu7xlg0.cloudfront.net/png/51904-200.png") center no-repeat;
+  background-size: contain;
+  padding: 10px;
+  margin: 5px;
+  display: inline-block;
+  border: none;
+  position: relative;
+}
